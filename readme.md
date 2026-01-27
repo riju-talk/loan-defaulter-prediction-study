@@ -4,4 +4,4 @@ Loan default prediction is a fundamental problem in credit risk assessment, wher
 
 This project implements a supervised machine learning pipeline for loan default prediction using public loan-level data, inspired by prior ACM research on credit risk modeling. The study focuses on leakage-aware preprocessing, feature engineering across borrower and loan attributes, and handling class imbalance through cost-sensitive learning.
 
-To evaluate robustness and generalization, experiments are conducted across two heterogeneous financial datasets: peer-to-peer installment loan data and an academic credit card default benchmark. Model performance is assessed using ranking-based metrics, and interpretability is emphasized through analysis of key drivers influencing default risk.
+To evaluate robustness and generalization, experiments are conducted across two heterogeneous financial datasets: peer-to-peer installment loan data and an academic credit card default benchmark. Model performance is assessed using ranking-based metrics, and interpretability is emphasized through analysis of key drivers influencing default risk
